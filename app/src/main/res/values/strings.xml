@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MainActifity</string>
+    <string name="sample">masukkan nama</string>
+    <string name="buy">Text</string>
+    <string name="shop">Shoping Cart</string>
+    <string name="cornerButton">Text corner</string>
+    <string name="rounded">Text Rounded</string>
+    <string name="eleveted">Text Eleveted</string>
+    <string name="image">image</string>
+</resources>
